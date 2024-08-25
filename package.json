@@ -1,0 +1,29 @@
+{
+  "name": "mysolution_job_bank_be",
+  "version": "1.0.0",
+  "description": "This service handle all the functionalities in the Job Bank website.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UDJayasumana/MYSOLUTION_JOB_BANK_BE.git"
+  },
+  "author": "Udara Jayasumana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UDJayasumana/MYSOLUTION_JOB_BANK_BE/issues"
+  },
+  "homepage": "https://github.com/UDJayasumana/MYSOLUTION_JOB_BANK_BE#readme",
+  "dependencies": {
+    "config": "^3.3.12",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.1",
+    "nodemon": "^3.1.4"
+  }
+}

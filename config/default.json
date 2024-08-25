@@ -1,0 +1,5 @@
+{
+    "db":{
+        "uri": "mongodb+srv://admin:8RfnHs4xwQd2TSUr@cluster0.ngkxs.mongodb.net/"
+    }
+}
